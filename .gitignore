@@ -1,5 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-# ficheros que son ignorados al actualizar el repositorio
+
 # dependencies
 /node_modules
 /.pnp
